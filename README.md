@@ -1,6 +1,6 @@
 # Open Source Software Development 2020
 
-##오픈소스SW개발 
+## 오픈소스SW개발 
 ---------------------------
 이름: 박민응
 
@@ -10,5 +10,5 @@
 
 이메일: <nadasansu@gmail.com>
 
-#### Team name: Undecided
-#### Team member : 강민준 권태윤 박민응 손홍일 이민재
+#### *Team name: Undecided
+#### *Team member : 강민준 권태윤 박민응 손홍일 이민재
