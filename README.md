@@ -1,10 +1,13 @@
 # Open Source Software Development 2020
 
-오픈소스SW개발 
+##오픈소스SW개발 
 ---------------------------
 이름: 박민응
+
 학과: 경제학부
+
 학번: 2012048630
+
 이메일: <nadasansu@gmail.com>
 
 #### Team name: Undecided
