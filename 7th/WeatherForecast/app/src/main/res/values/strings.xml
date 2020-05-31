@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">City Selection</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="pref_title_city">City</string>
+    <string-array name="pref_city_list_values">
+        <item>1835847</item>
+        <item>1835235</item>
+        <item>1835327</item>
+        <item>1838524</item>
+        <item>1835848</item>
+    </string-array>
+    <string-array name="pref_city_list_titles">
+        <item>Seoul(서울)</item>
+        <item>Daejeon(대전)</item>
+        <item>Daegu(대구)</item>
+        <item>Busan(부산)</item>
+        <item>Gwanak-gu(관악구)</item>
+    </string-array>
+</resources>
